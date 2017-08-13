@@ -1,20 +1,24 @@
 h1 {
-	color: red;
+	color: black;
 	text-align: center;
 	font-family: 'Just Another Hand', cursive;
+	font-size: 2.5em;
 	}
 h2 {
-	color: red;
+	color: black;
 	text-align: center;
 	font-family: 'Just Another Hand', cursive;
+	font-size: 1.875em;
 	}
 a {
-	color: blue;
+	color: black;
 	text-align: center;
 	font-family: 'Just Another Hand', cursive;
+	font-size: 1.875em;
 	}
 
 ul, li {
 	text-align: center;
 	font-family: 'Just Another Hand', cursive;
+	font-size: 1.875em;
 }

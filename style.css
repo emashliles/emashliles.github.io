@@ -1,17 +1,20 @@
 h1 {
 	color: red;
 	text-align: center;
+	font-family: 'Just Another Hand', cursive;
 	}
 h2 {
 	color: red;
 	text-align: center;
+	font-family: 'Just Another Hand', cursive;
 	}
 a {
 	color: blue;
 	text-align: center;
+	font-family: 'Just Another Hand', cursive;
 	}
 
-ul {
+ul, li {
 	text-align: center;
-
+	font-family: 'Just Another Hand', cursive;
 }
